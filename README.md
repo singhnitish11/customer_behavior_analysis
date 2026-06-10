@@ -8,12 +8,13 @@ The dataset contains approximately 3,900 records across multiple product categor
 
 🎯 Business Problem
 Retail businesses often struggle to understand customer behavior and optimize their strategies accordingly. This project aims to answer key questions such as:
-
 What factors influence customer purchasing decisions?
 Which customer segments generate the highest revenue?
 How do discounts and subscriptions impact buying behavior?
 What are the most popular products and categories?
+
 📊 Dataset Description
+
 Total Records: 3,900
 Total Columns: 18
 Key Features:
@@ -30,25 +31,33 @@ Customer distribution by age and gender
 Revenue analysis by product categories
 Discount impact on purchasing behavior
 Seasonal trends in sales
+
 🗄️ Data Analysis (SQL)
+
 Revenue analysis by gender
 High-spending customers identification
 Top-rated and most purchased products
 Customer segmentation (New, Returning, Loyal)
 Subscription vs non-subscription analysis
+
 📊 Dashboard (Power BI)
+
 An interactive dashboard was created to visualize:
 
 Revenue trends
 Customer segments
 Product performance
 Purchase behavior
+
 🧰 Tools & Technologies Used
+
 Python (Pandas, NumPy)
 SQL (PostgreSQL)
 Power BI
 Microsoft Excel
+
 📚 References
+
 Kaggle Dataset
 Python Pandas Documentation
 PostgreSQL Documentation
