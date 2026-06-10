@@ -73,5 +73,5 @@ Power BI Documentation
 B.Tech Computer Science & Engineering Student
 Data Analytics & Business Intelligence Enthusiast
 * Email: [nitishsih1401@gmail.com]
-* LinkedIn: [linkedin.com/in/nitish-kumar-61806a333]
+* LinkedIn: [https://linkedin.com/in/nitish-kumar-61806a333]
 
