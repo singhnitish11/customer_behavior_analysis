@@ -8,6 +8,7 @@ This project focuses on analyzing customer shopping behavior using transactional
 The dataset contains approximately 3,900 records across multiple product categories, including customer demographics, purchase details, and behavioral attributes.
 
 **🎯 Business Problem**
+
 Retail businesses often struggle to understand customer behavior and optimize their strategies accordingly. This project aims to answer key questions such as:
 What factors influence customer purchasing decisions?
 Which customer segments generate the highest revenue?
@@ -27,7 +28,9 @@ Data cleaning and handling missing values
 Feature engineering (Age Groups, Purchase Frequency)
 Column standardization
 Data transformation and validation
-📈 Exploratory Data Analysis (EDA)
+
+**📈 Exploratory Data Analysis (EDA)**
+
 Customer distribution by age and gender
 Revenue analysis by product categories
 Discount impact on purchasing behavior
