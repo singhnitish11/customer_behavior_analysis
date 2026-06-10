@@ -1,19 +1,20 @@
 
 🛒 Customer Shopping Behavior Analysis
 
-📌Project Overview
+**📌Project Overview**
+
 This project focuses on analyzing customer shopping behavior using transactional data. The main objective is to identify patterns in customer purchases, understand factors influencing buying decisions, and provide data-driven insights to improve business performance.
 
 The dataset contains approximately 3,900 records across multiple product categories, including customer demographics, purchase details, and behavioral attributes.
 
-🎯 Business Problem
+**🎯 Business Problem**
 Retail businesses often struggle to understand customer behavior and optimize their strategies accordingly. This project aims to answer key questions such as:
 What factors influence customer purchasing decisions?
 Which customer segments generate the highest revenue?
 How do discounts and subscriptions impact buying behavior?
 What are the most popular products and categories?
 
-📊 Dataset Description
+**📊 Dataset Description**
 
 Total Records: 3,900
 Total Columns: 18
@@ -32,7 +33,7 @@ Revenue analysis by product categories
 Discount impact on purchasing behavior
 Seasonal trends in sales
 
-🗄️ Data Analysis (SQL)
+**🗄️ Data Analysis (SQL)**
 
 Revenue analysis by gender
 High-spending customers identification
@@ -40,7 +41,7 @@ Top-rated and most purchased products
 Customer segmentation (New, Returning, Loyal)
 Subscription vs non-subscription analysis
 
-📊 Dashboard (Power BI)
+**📊 Dashboard (Power BI)**
 
 An interactive dashboard was created to visualize:
 
@@ -49,14 +50,14 @@ Customer segments
 Product performance
 Purchase behavior
 
-🧰 Tools & Technologies Used
+**🧰 Tools & Technologies Used**
 
 Python (Pandas, NumPy)
 SQL (PostgreSQL)
 Power BI
 Microsoft Excel
 
-📚 References
+**📚 References**
 
 Kaggle Dataset
 Python Pandas Documentation
